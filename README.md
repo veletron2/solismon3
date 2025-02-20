@@ -1,3 +1,5 @@
+Forked from https://github.com/NosIreland/solismon3 so I can fiddle with it for my purposes
+
 # SolisMon3
 
 This is 3rd iteration of my Solis Inverter monitor. 
